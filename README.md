@@ -24,6 +24,7 @@ And I'll use the drum and kick to determine the must-have notes and fill the oth
 
 ### Design
 I would have a software frame, with the basic gameplay frame as:
+```
 LevelManager(change between the main UI and the game)
 |- Level (algorithm of decomposing music)
 |---|- NoteGenerator (algorithm of wave function decompose)
@@ -37,6 +38,7 @@ LevelManager(change between the main UI and the game)
 |---|--- InputSystem
 |---|--- LevelSaver
 |---|--- ....
+```
 When the music is inputted the level will initialize all the things up and create a sequence of what what visualization and chart will present at each frame, and then enter the level(not real-time calculation)
 I'm afraid of those little lags that will give the game a really bad feeling cause it'll be very noticeable in rhythm game.
 
