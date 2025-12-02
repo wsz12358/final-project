@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5ff6f8dceca42a42b6a0a40e6837f1d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Event - Example Mic Input/Event_Example_Mic_InputSettings.lighting
+  uploadId: 794716

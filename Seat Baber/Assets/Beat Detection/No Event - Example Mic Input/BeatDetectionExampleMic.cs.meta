@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 410cb05ef80ab0e4b821249024406cb6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/No Event - Example Mic Input/BeatDetectionExampleMic.cs
+  uploadId: 794716

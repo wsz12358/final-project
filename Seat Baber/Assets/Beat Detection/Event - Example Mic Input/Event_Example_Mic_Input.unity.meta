@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6bee61aebbce632439675e70c31d4364
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Event - Example Mic Input/Event_Example_Mic_Input.unity
+  uploadId: 794716

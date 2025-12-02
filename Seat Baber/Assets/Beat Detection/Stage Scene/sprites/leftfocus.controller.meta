@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f85f77a20d974394d8201c84fde20e0c
+timeCreated: 1476038261
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Stage Scene/sprites/leftfocus.controller
+  uploadId: 794716

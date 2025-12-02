@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad347559ef45649458d4ea1b05421b8c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Event - Example/Event_ExampleSettings.lighting
+  uploadId: 794716

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 17d88526576f5455c8dcaf0c5451a543
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/No Event - Example/BeatDetectionExample.cs
+  uploadId: 794716

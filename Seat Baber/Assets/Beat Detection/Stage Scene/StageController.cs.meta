@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1f4bb4fe6c792844c9932adaabd1ae87
+timeCreated: 1476037756
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Stage Scene/StageController.cs
+  uploadId: 794716

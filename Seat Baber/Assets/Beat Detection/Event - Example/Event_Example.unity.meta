@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c468eb9d6bbcbe4f9fee607f0f31aa1
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19020
+  packageName: Beat Detection
+  packageVersion: 2018.1
+  assetPath: Assets/Beat Detection/Event - Example/Event_Example.unity
+  uploadId: 794716
